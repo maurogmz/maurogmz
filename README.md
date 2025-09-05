@@ -1,10 +1,8 @@
 <div align="center">
     
-# 👋 ¡Hola! Soy Mauro Gómez
+# 👋 ¡Hola! Soy Mauro Gómez 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Inform%C3%A1tica;Desarrollador+Full+Stack;Especialista+en+UI%2FUX;Game+Developer" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=maurogmz&label=Profile%20views&color=0e75b6&style=flat" alt="maurogmz" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Inform%C3%A1tica;Desarrollador+Full+Stack;UI%2FUX;Game+Developer" alt="Typing SVG" />
 
 ---
 
@@ -12,26 +10,56 @@
 
 </div>
 
-```javascript
-const mauroGomez = {
-    titulo: "Ingeniero en Informática 🎓",
-    universidad: "Universidad Nacional Arturo Jauretche (UNAJ)",
-    rolActual: "Full Stack Developer & Researcher",
-    investigacion: "HPC - High Performance Computing 🔬",
-    investigacionGrupo: "Simulación y Tecnología en Cómputo de Altas Prestaciones",
-    
-    intereses: [
-        "Desarrollo Web 🌐",
-        "Diseño UI/UX ✨", 
-        "Game Development 🎮",
-        "Modelado 3D 🎨",
-        "Simulación 📊"
-    ],
-    
-    experienciaLaboral: "Proyectos web para diversas Instituciones",
-    siempreAprendiendo: true
-};
-```
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauro.f.gmz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurogmz/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maurogomez_mfg)
+
+</div>
+
+<table>
+<tr>
+<td>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+</picture> Ingeniero en Informática
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 Desarrollo Web
+- **Frontend - Backend - UI/UX**
+
+</td>
+<td width="50%">
+
+### 🔬 Investigación
+- **Simulación en salud**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+
+### 🎮 Game Development
+- **Unity**: Videojuegos 2D y 3D
+- **Godot**: Pixel art
+- **Game Design**: Mecánicas y narrativa
+
+</td>
+<td width="50%">
+
+### 🏢 Experiencia
+- **Secretaría de Políticas Universitarias (SPU)**
+- **Desarrollo para instituciones públicas**
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -69,67 +97,7 @@ const mauroGomez = {
 ### Mobile
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
----
-
-## 📊 Estadísticas GitHub
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maurogmz&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maurogmz&theme=tokyonight&hide_border=true&locale=es" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurogmz&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=maurogmz&theme=tokyo-night&hide_border=true" />
-
----
-
-## 🎯 Áreas de Especialización
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Desarrollo Web
-- **Frontend**: Interfaces modernas y responsivas
-- **Backend**
-- **Full Stack**
-- **UI/UX**
-
-</td>
-<td width="50%">
-
-### 🔬 Investigación
-- **High Performance Computing**
-- **Simulación en salud**
-- **Aplicaciones de interés social**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎮 Game Development
-- **Unity**: Juegos 2D y 3D
-- **Godot**: Desarrollo multiplataforma
-- **Modelado 3D**: Assets y ambientes
-- **Game Design**: Mecánicas y narrativa
-
-</td>
-<td width="50%">
-
-### 🏢 Experiencia
-- **Secretaría de Políticas Universitarias (SPU)**
-- **Desarrollo para instituciones públicas**
-- **Proyectos web gubernamentales**
-- **Soluciones a medida**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Trofeos de GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maurogmz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurogmz&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
 
 ---
 
@@ -142,18 +110,7 @@ const mauroGomez = {
 
 </div>
 
----
-
-## 📞 Contacto
-
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauro.f.gmz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurogmz/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maurogomez_mfg)
-
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=¡Gracias%20por%20visitar!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
