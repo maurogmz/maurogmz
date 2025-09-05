@@ -1,4 +1,5 @@
 <div align="center">
+    
 # 👋 ¡Hola! Soy Mauro Gómez
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Inform%C3%A1tica;Desarrollador+Full+Stack;Especialista+en+UI%2FUX;Game+Developer" alt="Typing SVG" />
