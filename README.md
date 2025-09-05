@@ -17,14 +17,24 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maurogomez_mfg)
 
 </div>
+<h3 align="center">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="20" height="12">
+  </picture>
+  Ingeniero en Informática
+</h3>
 
 <table>
 <tr>
-<td>
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
-</picture> Ingeniero en Informática
+<td >
+<h3>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="20" height="12">
+  </picture>
+  Ingeniero en Informática
+</h3>
 </td>
 </tr>
 <tr>
@@ -52,8 +62,13 @@
 
 </td>
 <td width="50%">
+<h3>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa8f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa8f/512.gif" alt="🏢" width="20" height="20">
+</picture>Experiencia
+</h3>
 
-### 🏢 Experiencia
 - **Secretaría de Políticas Universitarias (SPU)**
 - **Desarrollo para instituciones públicas**
 
