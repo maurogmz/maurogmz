@@ -18,9 +18,10 @@
 
 </div>
 
+<div align="center">
 <table>
 <tr>
-<td width="100%">
+
 <h3>
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
@@ -28,7 +29,6 @@
   </picture>
   Ingeniero en Informática
 </h3>
-</td>
 </tr>
 <tr>
 <td width="50%">
@@ -68,6 +68,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
