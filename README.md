@@ -1,12 +1,11 @@
 <div align="center">
     
-# 👋 ¡Hola! Soy Mauro Gómez 
+# Mauro Gómez 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Inform%C3%A1tica;Desarrollador+Full+Stack;UI%2FUX;Game+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=2500&pause=800&color=667EEA&background=0F0F23&center=true&vCenter=true&width=700&height=80&lines=✨+Ingeniero+en+Informática;Full+Stack+Developer;🎨+UI%2FUX;🎮+Game+Developer" alt="Header" />
+
 
 ---
-
-## 🚀 Sobre Mí
 
 </div>
 
@@ -74,7 +73,7 @@
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -106,8 +105,6 @@
 ### Mobile
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurogmz&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-
 ---
 
 ## 🌟 Proyectos Destacados
@@ -125,11 +122,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-
-![Coding](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
-
-</div>
