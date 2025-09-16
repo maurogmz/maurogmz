@@ -2,7 +2,7 @@
     
 # Mauro Gómez 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=2500&pause=800&color=667EEA&background=0F0F23&center=true&vCenter=true&width=700&height=80&lines=✨+Ingeniero+en+Informática;Full+Stack+Developer;🎨+UI%2FUX;🎮+Game+Developer" alt="Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=2500&pause=800&color=667EEA&background=0F0F23&center=true&vCenter=true&width=700&height=80&lines=🎓+Ingeniero+en+Informática;Full+Stack+Developer;🎨+UI%2FUX;🎮+Game+Developer" alt="Header" />
 
 
 ---
@@ -19,16 +19,7 @@
 
 <div align="center">
 <table>
-<tr>
 
-<h3>
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="20" height="12">
-  </picture>
-  Ingeniero en Informática
-</h3>
-</tr>
 <tr>
 <td width="50%">
 
