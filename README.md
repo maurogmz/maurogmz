@@ -105,12 +105,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maurogmz&repo=anime-front-web&theme=tokyonight&hide_border=true)](https://github.com/maurogmz/anime-front-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maurogmz&repo=web-practices-scanner&theme=tokyonight&hide_border=true)](https://github.com/maurogmz/web-practices-scanner)
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=¡Gracias%20por%20visitar!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-</div>
 
 
