@@ -1,109 +1,129 @@
 <div align="center">
-    
-# Mauro Gómez 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=2500&pause=800&color=667EEA&background=0F0F23&center=true&vCenter=true&width=700&height=80&lines=🎓+Ingeniero+en+Informática;Full+Stack+Developer;🎨+UI%2FUX;🎮+Game+Developer" alt="Header" />
+# ✨ Hola, soy Mauro Gómez
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=🎓+Ingeniero+en+Informática;Full+Stack+Developer;🎮+Game+Developer;🤖+AI+Enthusiast" alt="Typing SVG" />
 
----
+<p align="center">
+  <a href="mailto:mauro.f.gmz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/maurogmz/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/maurogomez_mfg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-</div>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauro.f.gmz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurogmz/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maurogomez_mfg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 </div>
 
+
+
+<br clear="right"/>
+
+## 🎯 Áreas de Especialización
+
 <div align="center">
+
 <table>
-
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
 ### 💻 Desarrollo Web
-- **Frontend - Backend - UI/UX**
+**Full Stack Development**
+
+Frontend · Backend · APIs
+<br/>
+Arquitectura escalable
+<br/>
+Diseño UI/UX
 
 </td>
-<td width="50%">
-
-### 🔬 Investigación
-- **Simulación en salud**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
+<td align="center" width="33%">
 
 ### 🎮 Game Development
-- **Unity**: Videojuegos 2D y 3D
-- **Godot**: Pixel art
-- **Game Design**: Mecánicas y narrativa
+**Unity & Godot**
+
+Videojuegos 2D/3D
+<br/>
+Mecánicas y narrativa
+<br/>
+Pixel art
 
 </td>
-<td width="50%">
-<h3>
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa8f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa8f/512.gif" alt="🏢" width="20" height="20">
-</picture>Experiencia
-</h3>
+<td align="center" width="33%">
 
-- **Secretaría de Políticas Universitarias (SPU)**
-- **Desarrollo para instituciones públicas**
+### 🤖 IA & Investigación
+**AI & Simulation**
+
+Simulación en salud
 
 </td>
 </tr>
 </table>
+
 </div>
 
-<div align="center">
-
----
-
-## 🛠️ Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Game Development & 3D
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Mobile
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
----
-
-## 🌟 Proyectos Destacados
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maurogmz&repo=anime-front-web&theme=tokyonight&hide_border=true)](https://github.com/maurogmz/anime-front-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maurogmz&repo=web-practices-scanner&theme=tokyonight&hide_border=true)](https://github.com/maurogmz/web-practices-scanner)
+### 🎨 Frontend Development
+<p>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=angular" height="65" alt="Angular"/>
+  <img src="https://skillicons.dev/icons?i=html" height="65" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="65" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="65" alt="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="65" alt="Bootstrap"/>
+</p>
 
+### ⚙️ Backend Development
+<p>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="65" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="65" alt="Express"/>
+  <img src="https://skillicons.dev/icons?i=java" height="65" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="65" alt="C#"/>
+  <img src="https://skillicons.dev/icons?i=php" height="65" alt="PHP"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="65" alt="GraphQL"/>
+</p>
 
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="65" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="65" alt="PostgreSQL"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+</p>
+
+### 🎮 Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" height="65" alt="Unity"/>
+  <img src="https://skillicons.dev/icons?i=godot" height="65" alt="Godot"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+</p>
+
+### 🔧 Tools & Others
+<p>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=git" height="65" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="65" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="65" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="65" alt="Bash"/>
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="65" alt="Kotlin"/>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
