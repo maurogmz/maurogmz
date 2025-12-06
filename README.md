@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Hola, soy Mauro Gómez
+# ✨ Hi, I'm Mauro Gómez
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=🎓+Ingeniero+en+Informática;Full+Stack+Developer;🎮+Game+Developer;🤖+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=🎓+Computer+Engineer;Full+Stack+Developer;🎮+Game+Developer;🤖+AI+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:mauro.f.gmz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -18,7 +18,7 @@
 
 <br clear="right"/>
 
-## 🎯 Áreas de Especialización
+## 🎯 Areas of Specialization
 
 <div align="center">
 
@@ -26,14 +26,14 @@
 <tr>
 <td align="center" width="33%">
 
-### 💻 Desarrollo Web
+### 💻 Web Development
 **Full Stack Development**
 
 Frontend · Backend · APIs
 <br/>
-Arquitectura escalable
+Scalable architecture
 <br/>
-Diseño UI/UX
+UI/UX design
 
 </td>
 <td align="center" width="33%">
@@ -41,19 +41,19 @@ Diseño UI/UX
 ### 🎮 Game Development
 **Unity & Godot**
 
-Videojuegos 2D/3D
+2D/3D video games
 <br/>
-Mecánicas y narrativa
+Game mechanics and narrative
 <br/>
 Pixel art
 
 </td>
 <td align="center" width="33%">
 
-### 🤖 IA & Investigación
+### 🤖 AI & Research
 **AI & Simulation**
 
-Simulación en salud
+Healthcare simulation
 
 </td>
 </tr>
