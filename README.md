@@ -28,8 +28,6 @@
 
 ### 💻 Web Development
 **Full Stack Development**
-
-Frontend · Backend · APIs
 <br/>
 Scalable architecture
 <br/>
@@ -40,12 +38,10 @@ UI/UX design
 
 ### 🎮 Game Development
 **Unity & Godot**
-
-2D/3D video games
 <br/>
-Game mechanics and narrative
+Game mechanics
 <br/>
-Pixel art
+Pixel art, 2D, 3D
 
 </td>
 <td align="center" width="33%">
