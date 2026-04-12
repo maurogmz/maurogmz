@@ -1,8 +1,6 @@
 <div align="center">
 
-# ✨ Hi, I'm Mauro Gómez
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=🎓+Computer+Engineer;Full+Stack+Developer;🎮+Game+Developer;🤖+AI+Enthusiast" alt="Typing SVG" />
+# I'm Mauro Gómez
 
 <p align="center">
   <a href="mailto:mauro.f.gmz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -10,15 +8,13 @@
   <a href="https://www.instagram.com/maurogomez_mfg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-
 </div>
 
 
 
 <br clear="right"/>
 
-## 🎯 Areas of Specialization
+## Areas of Specialization
 
 <div align="center">
 
@@ -26,7 +22,7 @@
 <tr>
 <td align="center" width="33%">
 
-### 💻 Web Development
+### Web Development
 **Full Stack Development**
 <br/>
 Scalable architecture
@@ -36,7 +32,7 @@ UI/UX design
 </td>
 <td align="center" width="33%">
 
-### 🎮 Game Development
+### Game Development
 **Unity & Godot**
 <br/>
 Game mechanics
@@ -46,7 +42,7 @@ Pixel art, 2D, 3D
 </td>
 <td align="center" width="33%">
 
-### 🤖 AI & Research
+### AI & Research
 **AI & Simulation**
 
 Healthcare simulation
@@ -57,11 +53,11 @@ Healthcare simulation
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend Development
 <p>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
@@ -73,7 +69,7 @@ Healthcare simulation
   <img src="https://skillicons.dev/icons?i=bootstrap" height="65" alt="Bootstrap"/>
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="65" alt="Node.js"/>
@@ -85,26 +81,26 @@ Healthcare simulation
   <img src="https://skillicons.dev/icons?i=graphql" height="65" alt="GraphQL"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" height="65" alt="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=postgresql" height="65" alt="PostgreSQL"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
 </p>
 
-### 🎮 Game Development
+### Game Development
 <p>
   <img src="https://skillicons.dev/icons?i=unity" height="65" alt="Unity"/>
   <img src="https://skillicons.dev/icons?i=godot" height="65" alt="Godot"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
 </p>
 
-### 🔧 Tools & Others
+### Tools & Others
 <p>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=git" height="65" alt="Git"/>
@@ -114,12 +110,9 @@ Healthcare simulation
   <img src="https://skillicons.dev/icons?i=bash" height="65" alt="Bash"/>
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin" height="65" alt="Kotlin"/>
 </p>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
