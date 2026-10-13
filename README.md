@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Mauro Gómez · software engineer, educator, game dev" />
+  <img src="assets/header.svg" width="100%" alt="Mauro Gómez · software engineer, game dev — pixel art of Skyrim: Masser and Secunda, the Throat of the World and Whiterun" />
 </p>
 
 <p align="center">
@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/dialog.svg" width="640" alt="Building the tools universities run on. Teaching design patterns at UNAJ. Making small worlds in Unity and Godot." />
-</p>
-
-<p align="center">
   Computer Engineer from Argentina 🇦🇷<br/>
-  Full Stack Developer at <b>SIU</b>, working on <b>SIU‑Guaraní</b> · Instructor at <b>UNAJ</b><br/>
+  Full Stack Developer<br/>
   <sub>currently studying AI and blockchain‑based digital credentials</sub>
 </p>
 
